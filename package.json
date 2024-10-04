@@ -4,8 +4,6 @@
   "description": "GROWI plugins for markdown",
   "license": "MIT",
   "keywords": [
-    "growi",
-    "growi-plugin"
   ],
   "type": "module",
   "scripts": {
