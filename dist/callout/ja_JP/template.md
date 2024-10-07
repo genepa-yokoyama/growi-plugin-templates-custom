@@ -1,5 +1,8 @@
-<div class="callout callout-note"><!-- callout-xxx: note, tip, important, warning, caution -->
 
-// ここに入力。1行空けるとコールアウト内でもマークダウンが適用されます
+<div class="callout callout-note">
+
+> divタグから1行空けるとコールアウト内でもマークダウンが適用されます
+> class=callout-xxx を書き換えてコールアウトの種別を変更できます
+> > note, tip, important, warning, caution
 
 </div>
